@@ -7,6 +7,7 @@
         "score": "4.5",
         "supplier": "Aliexpress"
     },
+    {
         "id": "2",
         "name": "ZigZack Chain",
         "price": "0,99 €",
@@ -14,6 +15,7 @@
         "score": "3.5",
         "supplier": "Youtube"
     },
+    {
         "id": "3",
         "name": "Dog Tshirt",
         "price": "7.99 €",
@@ -21,6 +23,7 @@
         "score": "5",
         "supplier": "Amazon"
     },
+    {
         "id": "4",
         "name": "Developer Hoddie",
         "price": "25.99 €",
@@ -28,6 +31,7 @@
         "score": "2.5",
         "supplier": "Aliexpress"
     },
+    {
         "id": "5",
         "name": "Dog Chain",
         "price": "2,99 €",
