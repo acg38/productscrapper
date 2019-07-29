@@ -54,6 +54,78 @@
         "score": "5",
         "supplier": "Cengiz Shop",
         "image" : "https://cdn.pixabay.com/photo/2016/03/09/09/10/lighter-1245655_1280.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Feuezeug",
+        "price": "38,99 €",
+        "date": "16.07.2019",
+        "score": "5",
+        "supplier": "Cengiz Shop",
+        "image" : "https://cdn.pixabay.com/photo/2016/03/09/09/10/lighter-1245655_1280.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Feuezeug",
+        "price": "38,99 €",
+        "date": "16.07.2019",
+        "score": "5",
+        "supplier": "Cengiz Shop",
+        "image" : "https://cdn.pixabay.com/photo/2016/03/09/09/10/lighter-1245655_1280.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Feuezeug",
+        "price": "38,99 €",
+        "date": "16.07.2019",
+        "score": "5",
+        "supplier": "Cengiz Shop",
+        "image" : "https://cdn.pixabay.com/photo/2016/03/09/09/10/lighter-1245655_1280.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Feuezeug",
+        "price": "38,99 €",
+        "date": "16.07.2019",
+        "score": "5",
+        "supplier": "Cengiz Shop",
+        "image" : "https://cdn.pixabay.com/photo/2016/03/09/09/10/lighter-1245655_1280.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Feuezeug",
+        "price": "38,99 €",
+        "date": "16.07.2019",
+        "score": "5",
+        "supplier": "Cengiz Shop",
+        "image" : "https://cdn.pixabay.com/photo/2016/03/09/09/10/lighter-1245655_1280.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Feuezeug",
+        "price": "38,99 €",
+        "date": "16.07.2019",
+        "score": "5",
+        "supplier": "Cengiz Shop",
+        "image" : "https://cdn.pixabay.com/photo/2016/03/09/09/10/lighter-1245655_1280.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Feuezeug",
+        "price": "38,99 €",
+        "date": "16.07.2019",
+        "score": "5",
+        "supplier": "Cengiz Shop",
+        "image" : "https://cdn.pixabay.com/photo/2016/03/09/09/10/lighter-1245655_1280.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Feuezeug",
+        "price": "38,99 €",
+        "date": "16.07.2019",
+        "score": "5",
+        "supplier": "Cengiz Shop",
+        "image" : "https://cdn.pixabay.com/photo/2016/03/09/09/10/lighter-1245655_1280.jpg"
     }
     
 ]
