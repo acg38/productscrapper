@@ -23,18 +23,18 @@
         "id": "3",
         "name": "Food Truck",
         "price": "7.99 €",
-        "date": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "date": "Wir möchten in unserem Food-Truck aus geretteten Lebensmitteln vegetarische Gerichte zaubern, um Einnahmen zu generieren, welche in soziale Projekte fließen sollen. Gerichte, die mit Liebe zu Resten gekocht wurden, wie Suppen, Chutney, Gemüse-Reis, Smoothies und weitere interessante Mahlzeiten, sollen den Besucher/Kunden der kooperierenden Märkte angeboten werden. Wenn Du bei uns vor Ort essen möchtest, dann bekommst Du dein Essen wiederverwendbaren Schälchen und Teller serviert und isst mit Bambus-Besteck. Für unsere Gäste, die es to-go haben möchten, haben wir Schälchen und Teller aus Palmblättern. Diese sind zu 100% kompostierbar und ökologisch unbedenklich.",
         "score": "5",
-        "supplier": "Bionatic",
+        "supplier": "Zero Waste",
         "image" : "https://restlos-ev.de/wp-content/uploads/2019/08/IMG_20190828_101430.jpg"
     },
     {
         "id": "4",
         "name": "Food Outlet",
         "price": "25.99 €",
-        "date": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "date": "Bei erfolgreicher Projektfinanzierung werden wir den ersten Food Outlet Bielefeld´s eröffnen. Dazu werden wir unser Team vergrößern, ein Kühlfahrzeug, sowie ein Lager für gerettete Lebensmittel anmieten. In dem Food-Outlet Restlos werden selbstverständlich nur gerettete Lebensmittel angeboten, welche wir Dir mit einem Preisnachlass von ca. 50-70% des Ursprungspreises anbieten werden. Selbstverständlich fließen auch diese Einnahmen in unsere sozialen Projekte. Neben Obst und Gemüse wird es ein breites Sortiment an vielen Dingen geben, die Du auch sonst im Supermarkt beim Einkauf findest.",
         "score": "2.5",
-        "supplier": "Den´s",
+        "supplier": "Rette mit uns Lebensmittel",
         "image" : "https://restlos-ev.de/wp-content/uploads/2019/08/IMG_20190828_121732.jpg"
     },
     {
@@ -52,7 +52,7 @@
         "price": "38,99 €",
         "date": "Startnext ist die größte klassische Crowdfunding-Plattform für Ideen, Projekte und Startups im deutschsprachigen Raum. Gründer*innen, Erfinder*innen und Kreative stellen ihre Ideen vor und finanzieren sie mit der Unterstützung von vielen Menschen. Der Projektinitiator beschreibt auf der Plattform seine Idee. Zusätzlich legt er ein Finanzierungsziel (genauer Geldbetrag), eine Laufzeit für die Kampagne und Gegenleistungen für seine Unterstützer fest. Diese können sich diese Gegenleistungen wie z.B. diverse Produkte oder einen Gutschein auswählen oder die Idee mit einem freien Geldbetrag unterstützen. Der Projektinitiator bekommt das Geld nur, wenn das Finanzierungsziel innerhalb der festgelegten Kampagnenzeit erreicht wird – wenn nicht, geht es an die Unterstützer zurück. Startnext finanziert sich dabei von der freiwilligen Provision von Projektinitiatoren und Unterstützern. Im Jahr 2017 erzielte das Unternehmen einen Umsatz vin 1.154,478 Euro, bis 2019 wurden über 60 Millionen Euro im Crowdfunding eingesammelt. Startnext kooperiert mit unterschiedlichen Partner und gemeinnützigen Organisationen wie z.B dem Deutschen Integrationspreos der Hertie-Stiftung, Crowdfunding für Journalismus mit Correctiv oder einem Gründer-Contest mit dm und Krombacher. Das Sozialunternehmen ist Mitglied im Social Entrepreneurship Netzwerk Deutschland. Mehr Infos auf www.startnext.de",
         "score": "5",
-        "supplier": "Marktkauf",
+        "supplier": "Unterstüzt Uns auf Startnext",
         "image" : "https://restlos-ev.de/wp-content/uploads/2019/08/IMG_20190826_163746.jpg"
     },
     {
