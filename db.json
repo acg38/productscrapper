@@ -3,7 +3,7 @@
 "products": [
     {
         "id": "1",
-        "name": "Obst",
+        "name": "Gemeinsam für mehr Nachhaltigkeit",
         "price": "18,99 €",
         "date": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
         "score": "4.5",
@@ -12,7 +12,7 @@
     },
     {
         "id": "2",
-        "name": "Erdbeer Smoothies",
+        "name": "Restloser Genuss",
         "price": "0,99 €",
         "date": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
         "score": "3.5",
@@ -21,7 +21,7 @@
     },
     {
         "id": "3",
-        "name": "The Restlos",
+        "name": "Food Truck",
         "price": "7.99 €",
         "date": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
         "score": "5",
@@ -30,7 +30,7 @@
     },
     {
         "id": "4",
-        "name": "Grilled Veggie & Kokosreis",
+        "name": "Food Outlet",
         "price": "25.99 €",
         "date": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
         "score": "2.5",
@@ -39,7 +39,7 @@
     },
     {
         "id": "5",
-        "name": "The Saver",
+        "name": "Fair Teiler",
         "price": "2,99 €",
         "date": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
         "score": "3.5",
@@ -48,16 +48,16 @@
     },
     {
         "id": "6",
-        "name": "Steinpilze",
+        "name": "Startnext",
         "price": "38,99 €",
-        "date": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "date": "Startnext ist die größte klassische Crowdfunding-Plattform für Ideen, Projekte und Startups im deutschsprachigen Raum. Gründer*innen, Erfinder*innen und Kreative stellen ihre Ideen vor und finanzieren sie mit der Unterstützung von vielen Menschen. Der Projektinitiator beschreibt auf der Plattform seine Idee. Zusätzlich legt er ein Finanzierungsziel (genauer Geldbetrag), eine Laufzeit für die Kampagne und Gegenleistungen für seine Unterstützer fest. Diese können sich diese Gegenleistungen wie z.B. diverse Produkte oder einen Gutschein auswählen oder die Idee mit einem freien Geldbetrag unterstützen. Der Projektinitiator bekommt das Geld nur, wenn das Finanzierungsziel innerhalb der festgelegten Kampagnenzeit erreicht wird – wenn nicht, geht es an die Unterstützer zurück. Startnext finanziert sich dabei von der freiwilligen Provision von Projektinitiatoren und Unterstützern. Im Jahr 2017 erzielte das Unternehmen einen Umsatz vin 1.154,478 Euro, bis 2019 wurden über 60 Millionen Euro im Crowdfunding eingesammelt. Startnext kooperiert mit unterschiedlichen Partner und gemeinnützigen Organisationen wie z.B dem Deutschen Integrationspreos der Hertie-Stiftung, Crowdfunding für Journalismus mit Correctiv oder einem Gründer-Contest mit dm und Krombacher. Das Sozialunternehmen ist Mitglied im Social Entrepreneurship Netzwerk Deutschland. Mehr Infos auf www.startnext.de",
         "score": "5",
         "supplier": "Marktkauf",
         "image" : "https://restlos-ev.de/wp-content/uploads/2019/08/IMG_20190826_163746.jpg"
     },
     {
         "id": "7",
-        "name": "Selfmade Goodies",
+        "name": "Inklusion",
         "price": "38,99 €",
         "date": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
         "score": "5",
@@ -66,7 +66,7 @@
     },
     {
         "id": "8",
-        "name": "Restlos meets Bugs Bunny",
+        "name": "Zero Waste",
         "price": "38,99 €",
         "date": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
         "score": "5",
